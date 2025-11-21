@@ -1,0 +1,4 @@
+Model: SVM (RBF)
+Train samples: 760
+Test samples: 190
+Training time: 0.42 seconds
